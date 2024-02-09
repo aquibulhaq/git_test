@@ -1,0 +1,5 @@
+Hello, world!
+My name is Aquibul Haq Chowdhury.
+I am a Computer Science and Engineering (CSE) graduate.
+I am currently studying The Odin Project (TOP) to get a job in web development.
+Wish me luck!
